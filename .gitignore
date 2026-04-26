@@ -1,0 +1,36 @@
+# Virtual Environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data files (large / unnecessary)
+data/
+*.csv
+
+# Jupyter notebooks (optional)
+*.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Docker (optional but safe)
+*.dockerignore
+
+# Model files (OPTIONAL — see below)
+# model.pkl
